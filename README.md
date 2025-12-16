@@ -1,7 +1,7 @@
 # github-notes
 
 i. Git
-- version control software
+- version control software -- tracks the history all the time
 
 ii. GitHub
 - GitHub is a website where you can make projects that have version control on them
