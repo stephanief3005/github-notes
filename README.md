@@ -15,4 +15,4 @@ iv. Commit
 - it's like a save
 - A commit hash is a unique identifier for a particular commit
 - hash
--  - Allow browsing of history
+- Allow browsing of history
